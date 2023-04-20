@@ -14,7 +14,7 @@ Available in mbed, self-made library for Ultrasonic-sensor.
 - Click the green button(`code` button).
 
 ## Features
-
+Reduce the amount of code to use ultrasonic sensors. This makes code refactoring and bug fixing easier.
 
 ## Directory
 ```
@@ -40,6 +40,7 @@ Available in mbed, self-made library for Ultrasonic-sensor.
 |   :-:    | --- |
 | OS       | Windows 10 Pro |
 | IDE      | Arm Keil Studio, Visual Studio Code |
+| HARD     | STM32(test: F446RE) |
 | LANG     | C++ |
 | OTHERS   | - |
 
