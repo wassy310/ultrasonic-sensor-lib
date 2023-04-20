@@ -4,14 +4,13 @@
 Available in mbed, self-made library for Ultrasonic-sensor.
 
 ## Getting Started
-### 1. Use Git
-- Clone this project.
-  - `git clone https://github.com/wassy310/ultrasonic-sensor-lib`
 - Add files to your working dir.
   - ultrasonic.cpp
   - ultrasonic.h
-### 2. Download
-- Click the green button(`code` button).
+- Pin:
+  - `Ultrasonic variable(triggerPin, echoPin);`
+- Read value
+  - `double distance = sensor.getDistance();`
 
 ## Features
 Reduce the amount of code to use ultrasonic sensors. This makes code refactoring and bug fixing easier.
