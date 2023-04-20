@@ -40,7 +40,7 @@ Reduce the amount of code to use ultrasonic sensors. This makes code refactoring
 |   :-:    | --- |
 | OS       | Windows 10 Pro |
 | IDE      | Arm Keil Studio, Visual Studio Code |
-| HARD     | STM32(test: F446RE) |
+| HARD     | STM32(test: F446RE), HC-SR04 |
 | LANG     | C++ |
 | OTHERS   | - |
 
