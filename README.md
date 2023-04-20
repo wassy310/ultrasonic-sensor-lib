@@ -51,7 +51,7 @@ Reduce the amount of code to use ultrasonic sensors. This makes code refactoring
 [Apache-2.0 license](https://github.com/apache/.github/blob/main/LICENSE)
 
 ## Contact
-Bugs and feature requests please visit [GitHub Issues](https://github.com/wassy310/flutter_stt/issues).  
+Bugs and feature requests please visit [GitHub Issues](https://github.com/wassy310/ultrasonic-sensor-lib/issues).  
 For less important matters, please contact us through the following means.
 - Twitter
   - [waaaa5267](https://twitter.com/waaaa5267)
