@@ -26,7 +26,6 @@ Available in mbed, self-made library for Ultrasonic-sensor.
 └── README.md
 ```
 ### main.cpp
-This is a folder that is automatically created when yo
 
 ### ultrasonic.cpp
 
