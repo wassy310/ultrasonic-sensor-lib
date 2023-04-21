@@ -25,14 +25,19 @@ Reduce the amount of code to use ultrasonic sensors. This makes code refactoring
 └── README.md
 ```
 ### main.cpp
+Test script.
 
 ### ultrasonic.cpp
+This file contains compiled functions and data, which are linked with main.cpp to create an executable program.
 
 ### ultrasonic.h
+This file contains various definitions needed to use library functions, mainly class definitions.
 
 ### LICENSE
+Apache-2.0 license
 
 ### README.md
+This file.
 
 ## Environments
 |          |     |
