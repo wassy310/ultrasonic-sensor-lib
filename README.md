@@ -10,7 +10,7 @@ Available in mbed, self-made library for Ultrasonic-sensor.
 - Pin:
   - `Ultrasonic variable(triggerPin, echoPin);`
 - Read value
-  - `double distance = variavle.getDistance();`  
+  - `double distance = variable.getDistance();`
 
   ※ `variable`: Users can rewrite the name as they like.
 
