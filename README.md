@@ -11,7 +11,8 @@ Available in mbed, self-made library for Ultrasonic-sensor.
   - `Ultrasonic variable(triggerPin, echoPin);`
 - Read value
   - `double distance = variavle.getDistance();`  
-※ `variable`: Users can rewrite the name as they like.
+
+  ※ `variable`: Users can rewrite the name as they like.
 
 ## Features
 Reduce the amount of code to use ultrasonic sensors. This makes code refactoring and bug fixing easier.
